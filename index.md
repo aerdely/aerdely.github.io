@@ -1,6 +1,6 @@
-## Dr. Arturo Erdely
+# Dr. Arturo Erdely
 
-You may visit my [personal web page](https://sites.google.com/site/arturoerdely/)
+You may visit my [personal Google Site](https://sites.google.com/site/arturoerdely/) (in Spanish)
 
 ### Short Bio
 

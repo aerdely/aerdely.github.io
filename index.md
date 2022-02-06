@@ -1,4 +1,4 @@
-<img src="https://aerdely.github.io/DrArturoErdely.jpg">
+<img src="https://aerdely.github.io/DrArturoErdely.jpg" width="500"/>
 
 You may visit my [Google Site](https://sites.google.com/site/arturoerdely/) (in Spanish)
 

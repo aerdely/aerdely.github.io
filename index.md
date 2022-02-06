@@ -1,3 +1,5 @@
+<img src="https://aerdely.github.io/DrArturoErdely.jpg">
+
 You may visit my [Google Site](https://sites.google.com/site/arturoerdely/) (in Spanish)
 
 ### Short Bio

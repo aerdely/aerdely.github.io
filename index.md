@@ -4,7 +4,7 @@ You may visit my [Google Site](https://sites.google.com/site/arturoerdely/) (in 
 
 ### Short Bio
 
-Professor at UNAM (Mexico), PhD in Statistics. Research: Subcopula functions and applications.
+Professor at UNAM (Mexico), PhD in Statistics. Research: Subcopula functions and applications. Programming: [Julia](https://julialang.org/)
 
 ### Email
 
